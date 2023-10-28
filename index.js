@@ -11,6 +11,9 @@ console.log("iniciando a aplicação")
 
 operation()
 
+
+let nome = 'leo'
+
 function  operation() {
 
 
